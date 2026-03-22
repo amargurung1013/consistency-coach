@@ -1,0 +1,18 @@
+{
+    "goals":[
+        "Build one AI project every day",
+        "Learn one new AI concept every day",
+        "Master LangChain and LangGraph",
+        "Study for exams starting March 24th"
+    ],
+    "exam_date": "2026-04-07",
+    "subjects" : [
+        "Database Management System (DBMS)", 
+        "Data Visualization (DAV)",
+        "Discrete Mathematics (DSM)",
+        "Unix Shell Programming (USX)",
+        "Design Anaylsis of Algorithms (DAA)",
+        "Distributive Computing (DC)",
+        "Cryptography and Networking Security(CNS)"
+    ]
+}
